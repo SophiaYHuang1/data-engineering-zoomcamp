@@ -1,0 +1,1 @@
+select * from `nytaxi_data.yellowtaxi_trips_raw`
